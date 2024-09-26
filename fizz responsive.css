@@ -1,0 +1,52 @@
+.container-fluid{
+  height: 70px;
+  background-color: rgb(10, 11, 39);
+}
+.header-img{
+  height: 26.5px;
+  padding-left: 10%;
+}
+.menu-icon{
+  width: 30px;
+}
+.container{
+  display: flex;
+}
+.middle-text-container{
+  position: relative;
+  z-index: 1;
+  bottom: 15%;
+  width: 150px;
+  left: 30%;
+  
+}
+.middle-text{
+  color: white;
+  font-weight: 900;
+}
+.middle-right-container{
+  padding: 20%;
+}
+.middle-right-text{
+  text-align: start;
+  font-family: "meriva";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  
+}
+#leaf{
+  height: 60%;
+  position: relative;
+  left: 20%;
+  top: 20%;
+  z-index: 0;
+}
+#logodiv{
+  margin-right: 15%;
+}
+#leaf-img{
+  padding-left: 9%;
+  background-color: black;
+}
+
